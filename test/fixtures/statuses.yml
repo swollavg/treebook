@@ -9,3 +9,7 @@ two:
   
   content: MyText
   user: ferry
+
+three:
+  content: "Hi I'm deadmouse"
+  user: dead

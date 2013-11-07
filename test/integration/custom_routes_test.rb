@@ -20,5 +20,10 @@ test "that /login route opens the login page" do
 	assert_response :success 
 
 	end
+
+	test "thata profile page works" do
+		get 'fcorst'
+		assert_response :success
+	end
 end 
 
